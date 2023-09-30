@@ -1,0 +1,6 @@
+To make your mod a cael compatible mod:
+- Name it CAEL-sub_<your normal mod name>
+- Use "cael init" in cmd
+- Write youre desired mod and cael version into the created inf.cael
+- Use "ceal -c std" in cmd
+- Use "cael --insert" in cmd
